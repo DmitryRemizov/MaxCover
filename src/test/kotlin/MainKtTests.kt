@@ -15,7 +15,7 @@ class MainKtTest {
     //стандартная комиссия Виза/Мир
     @Test
     fun calcVisaMirCommission_commissionPercent() {
-        val currentPayment = ((35_00L + 1L) * 100L / 0.85F).toLong()
+        val currentPayment = ((35_00L + 1L) * 100L / 0.75F).toLong()
         val result = calcVisaMirCommission(currentPayment)
         assertEquals((currentPayment * 0.75F / 100.0F).toLong(), result)
     }
