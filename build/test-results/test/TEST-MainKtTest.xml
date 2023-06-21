@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MainKtTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-06-20T18:30:45" hostname="MacBook-Pro-Dmitry.local" time="0.004">
+<testsuite name="MainKtTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-06-21T09:22:08" hostname="MacBook-Pro-Dmitry.local" time="0.006">
   <properties/>
-  <testcase name="calcVisaMirCommission_commissionPercent" classname="MainKtTest" time="0.001"/>
-  <testcase name="calcPaymentCommission_Mastercard_noCommission" classname="MainKtTest" time="0.002"/>
+  <testcase name="calcVisaMirCommission_commissionPercent" classname="MainKtTest" time="0.002"/>
+  <testcase name="calcPaymentCommission_Mastercard_noCommission" classname="MainKtTest" time="0.003"/>
   <testcase name="calcPaymentCommission_Visa_minCommission" classname="MainKtTest" time="0.0"/>
   <testcase name="calcPaymentCommission_defaultParams" classname="MainKtTest" time="0.0"/>
   <testcase name="calcPaymentCommission_Mir_minCommission" classname="MainKtTest" time="0.0"/>
-  <testcase name="calcMastercardMaestro_CommissionPercent" classname="MainKtTest" time="0.001"/>
+  <testcase name="calcMastercardMaestro_CommissionPercent" classname="MainKtTest" time="0.0"/>
   <testcase name="calcPaymentCommission_VkPay_noCommission" classname="MainKtTest" time="0.0"/>
   <testcase name="calcPaymentCommission_Maestro_noCommission" classname="MainKtTest" time="0.0"/>
   <testcase name="calcVisaMirCommission_commissionMin" classname="MainKtTest" time="0.0"/>

@@ -1,7 +1,7 @@
 import org.junit.Test
 
 import org.junit.Assert.*
-import ru.netology.lesson4.variouscommision.*
+
 
 class MainKtTest {
     //Минимальная комиссия Виза/Мир
